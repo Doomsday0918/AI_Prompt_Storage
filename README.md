@@ -6,4 +6,8 @@
 3. Paste it in the Prompt page.
 4. Create.
 5. Just type what you want.(on Pro mode)
-6. Gemini will be your Genie!
+6. Gemini will be answer!
+
+## Error?
+1. Enter the website below.
+https://aistudio.google.com/status?hl=ko
